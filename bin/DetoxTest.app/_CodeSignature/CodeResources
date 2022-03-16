@@ -173,9 +173,29 @@
 		<data>
 		yhhxq5uhkJtQzgyhRK91rrJyBjg=
 		</data>
+		<key>assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png</key>
+		<data>
+		/9xO1HOyvigG6Z0PaA0dLp/gDlY=
+		</data>
+		<key>assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png</key>
+		<data>
+		keLOi1inJdXs0IRSKnXqyhW57Aw=
+		</data>
+		<key>assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png</key>
+		<data>
+		rSvG8m4uPMSItIcsIF+N2tDJD8U=
+		</data>
+		<key>assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png</key>
+		<data>
+		8kFG8Vv7Hfrw4yVcFrhUhbHieBA=
+		</data>
+		<key>assets/node_modules/react-native/package.json</key>
+		<data>
+		go47tJtwXwTnPtYhFjk3FXDP/zM=
+		</data>
 		<key>main.jsbundle</key>
 		<data>
-		HpAuy+VkRGdXoPQqe26z9OC6tnc=
+		oHl6wfa51Od1m0rQAhLqjcPvHJ8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -455,11 +475,46 @@
 			UhyYi0Yfo5nTnABlx+gj9CXB8/T+2lIFcBzlfCGrud4=
 			</data>
 		</dict>
+		<key>assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LJXowmdeeZM1/QBGuwfb2gbLfs/1HtN5IsYwnWGcxNM=
+			</data>
+		</dict>
+		<key>assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LN/rjlzN55dvcBL7jM5zryIpAp7iHU8VCf7RFIccbNg=
+			</data>
+		</dict>
+		<key>assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K3RDqaWOksoRpXW9wRWYYVpX3eMFzYznDWAmBrMCzZg=
+			</data>
+		</dict>
+		<key>assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Pd0Hc+0n4j0leJ8wFzGzrEVa2L5aonoKG4OPicbSciU=
+			</data>
+		</dict>
+		<key>assets/node_modules/react-native/package.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yH2JOo/7q367qc4LzdEnRNZGktIBupJtmpKffXw8sWA=
+			</data>
+		</dict>
 		<key>main.jsbundle</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TTvbDf3gM1Q87jIM2VUrk1jorMnlNZu9nv5Jslg5MB0=
+			XrSY58MBD1tfZbxSJzmeWlvF62AuA+p5ANvKTJeaTAg=
 			</data>
 		</dict>
 	</dict>

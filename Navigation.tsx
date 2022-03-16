@@ -6,7 +6,14 @@ const Stack = createStackNavigator();
 
 const AuthStack = () => {
   return (
-    <Stack.Navigator>
+    <Stack.Navigator
+      headerMode="none"
+      mode="modal"
+      screenOptions={{
+        cardStyle: { backgroundColor: "transparent" },
+        animationEnabled: false,
+      }}
+    >
       <Stack.Screen name="LogIn" component={Login} />
       <Stack.Screen name="SignUp" component={Signup} />
     </Stack.Navigator>
